@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "788CA3EB18B504BD006A1237"
-               BuildableName = "RRCurseApp8.app"
+               BuildableName = "RRCurseApp8WithTabBar.app"
                BlueprintName = "RRCurseApp8WithTabBar"
                ReferencedContainer = "container:RRCurseApp8WithTabBar.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "788CA40618B504BD006A1237"
-               BuildableName = "RRCurseApp8Tests.xctest"
+               BuildableName = "RRCurseApp8WithTabBarTests.xctest"
                BlueprintName = "RRCurseApp8WithTabBarTests"
                ReferencedContainer = "container:RRCurseApp8WithTabBar.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "788CA3EB18B504BD006A1237"
-            BuildableName = "RRCurseApp8.app"
+            BuildableName = "RRCurseApp8WithTabBar.app"
             BlueprintName = "RRCurseApp8WithTabBar"
             ReferencedContainer = "container:RRCurseApp8WithTabBar.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "788CA3EB18B504BD006A1237"
-            BuildableName = "RRCurseApp8.app"
+            BuildableName = "RRCurseApp8WithTabBar.app"
             BlueprintName = "RRCurseApp8WithTabBar"
             ReferencedContainer = "container:RRCurseApp8WithTabBar.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "788CA3EB18B504BD006A1237"
-            BuildableName = "RRCurseApp8.app"
+            BuildableName = "RRCurseApp8WithTabBar.app"
             BlueprintName = "RRCurseApp8WithTabBar"
             ReferencedContainer = "container:RRCurseApp8WithTabBar.xcodeproj">
          </BuildableReference>
